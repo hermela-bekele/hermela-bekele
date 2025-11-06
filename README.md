@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently taking online course at 10academy.org **AI for project management**
 
-- 🌱 I’m currently a gradute in **Software engineering Bsc.**
+- 🌱 I’m a gradute in **Software engineering Bsc.**
 
 - 👯 I’m looking to collaborate on **any projects that use the tools mentioned below, also want to collaborate in projects related to AI, Machine learning, and software project management**
 
